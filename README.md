@@ -1,4 +1,4 @@
-# 👨‍💻 Hi There, this is Anas Aburshaid
+# 👨‍💻 Hi there, This is Anas Aburshaid
 
 ## 🧾 Short Bio
 Software Engineering graduate from BAU with strong experience in building desktop and backend systems using C++ and C#. Focused on system design, backend logic, clean architecture, and problem-solving for real-world software systems.
@@ -8,9 +8,9 @@ Software Engineering graduate from BAU with strong experience in building deskto
 ## 👋 About Me
 I am a Software Engineering graduate with practical experience in designing and developing structured software systems.
 
-My background is built around analytical thinking and engineering logic — I focus on understanding how systems work internally, breaking requirements into structured components, and designing scalable and maintainable solutions rather than just implementing features.
+My focus is on understanding how systems work internally, breaking requirements into well-defined components, and designing scalable and maintainable solutions. I approach development from an engineering perspective rather than just implementation, with strong emphasis on logic, structure, and design quality.
 
-I have strong problem-solving ability and a system-oriented mindset that allows me to analyze complex requirements and translate them into well-structured software architectures.
+I have strong problem-solving skills and the ability to translate complex requirements into clear and efficient software architectures.
 
 ---
 
@@ -49,6 +49,6 @@ I focus on understanding systems at a structural level — how data flows, how c
 ---
 
 ## 🚀 Future Direction
-I am focused on strengthening my backend development skills through building real-world projects and improving system design capabilities.
+I am focused on strengthening my backend development skills by building real-world projects and improving my system design capabilities.
 
-My goal is to grow into a backend-focused software engineer with a strong foundation in API development, system architecture, and scalable backend systems, while continuously improving my problem-solving skills.
+My goal is to grow into a backend-focused software engineer with strong expertise in API development, software architecture, and scalable backend systems, while continuously sharpening my problem-solving skills.
