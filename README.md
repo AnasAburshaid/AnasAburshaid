@@ -64,4 +64,10 @@ A console application for practicing arithmetic operations with scoring and diff
 
 ## 🎯 Focus
 
-Building structured and scalable software systems with strong backend logic, clean architecture thinking, and a problem-solving mindset focused on real-world software engineering.
+## 🚀 Future Direction
+
+I am currently focused on strengthening my backend development fundamentals through building real projects and improving my understanding of system design and software architecture.
+
+My goal is to evolve into a full-stack backend-focused software engineer, starting with API development and backend systems, then gradually expanding into web development and modern full-stack technologies.
+
+Alongside this, I aim to continue improving my problem-solving skills and explore modern engineering areas such as scalable system design and applied AI concepts as part of my long-term growth as a software engineer.
