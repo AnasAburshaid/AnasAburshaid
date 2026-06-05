@@ -1,18 +1,18 @@
-## Hi there this is Anas Aburshaid👋 
+# 👨‍💻 GitHub Profile
 
 ## 🧾 Short Bio
 
-Software Engineering graduate from BAU with strong hands-on experience in building desktop systems using C++ and C#. Focused on system thinking, backend development, clean code practices, and designing structured software solutions.
+Software Engineering graduate from BAU with strong experience in building desktop systems using C++ and C#. Focused on system design, backend logic, clean architecture, and problem-solving for real-world software systems.
 
 ---
 
 ## 👋 About Me
 
-I am a Software Engineering graduate from BAU with practical experience in developing desktop and console-based applications.
+I am a Software Engineering graduate with practical experience in designing and developing structured software systems.
 
-Throughout my learning journey, I completed a large number of structured courses covering problem solving, data structures, algorithms, database fundamentals, and software design principles. I applied this knowledge through building both small and large-scale projects, which significantly improved my ability to think logically, design systems, and write clean, maintainable code.
+My background is built around analytical thinking and engineering logic — I focus on understanding how systems work internally, breaking requirements into structured components, and designing scalable and maintainable solutions rather than just implementing features.
 
-My main strength is system thinking — the ability to understand requirements, break them down into structured components, and design efficient and scalable software solutions.
+I have strong problem-solving ability and a system-oriented mindset that allows me to analyze complex requirements and translate them into well-structured software architectures.
 
 ---
 
@@ -20,49 +20,42 @@ My main strength is system thinking — the ability to understand requirements, 
 
 ### 🏛️ University Management System
 
-A full system that simulates university operations including students, courses, and administrative workflows.
+A multi-layer desktop system built using a 3-tier architecture, managing academic operations with structured business logic and a relational SQL Server database.
 
 ### 🚗 DVLD (Driving & Vehicle License Department System)
 
-A complete system that manages driving license operations such as applications, tests, renewals, replacements, and full lifecycle processes.
+A full-scale licensing system simulating real-world government workflows, built with layered architecture, strict business rules, and complete lifecycle management of applications, tests, and licenses.
 
 ### 🏦 Bank Management System (C++)
 
-A console-based system with user permissions handling accounts, transactions, and banking operations.
+A console-based system implementing role-based access control, account management, and transaction processing with structured system logic.
 
 ### 📒 Contacts Management System (C# WinForms)
 
-A desktop application for managing contacts with full CRUD functionality.
+A desktop CRUD system for managing contacts with clean UI separation and basic data operations.
 
 ### 🌍 Countries Information System (C# WinForms)
 
-A simple system for storing and managing country data with basic operations.
-
-### ✊ Rock Paper Scissors (C++)
-
-A console-based game implementing basic game logic and random outcomes.
-
-### 🧮 Math Game (C++)
-
-A console application for practicing arithmetic operations with scoring and difficulty levels.
+A lightweight data management system for storing and handling country records.
 
 ---
 
-## 🛠️ Skills
+## 🧠 Core Strengths
 
-* C++
-* C#
-* Windows Forms (WinForms)
-* Console Application Development
-* Problem Solving & Algorithms
-* Data Structures Fundamentals
 * System Thinking & Software Design
-* Clean Code Principles
-* SQL Server & Database Fundamentals
+* Problem Solving & Algorithmic Thinking
+* Clean Architecture Principles
+* Backend Logic Design
+* Database-Driven Application Design (SQL Server)
+* Structured Code Organization
 
 ---
 
-## 🎯 Focus
+## 🚀 Work Approach
+
+I focus on understanding systems at a structural level — how data flows, how components interact, and how business rules shape architecture. I aim to write clean, maintainable, and logically structured code that reflects real software engineering principles.
+
+---
 
 ## 🚀 Future Direction
 
