@@ -1,4 +1,4 @@
-# 👨‍💻 GitHub Profile
+# 👨‍💻 Hi There, this is Anas Aburshaid
 
 ## 🧾 Short Bio
 Software Engineering graduate from BAU with strong experience in building desktop and backend systems using C++ and C#. Focused on system design, backend logic, clean architecture, and problem-solving for real-world software systems.
