@@ -26,7 +26,7 @@ A full-scale desktop application simulating the workflows of a government licens
 
 ---
 
-## 🎓 Smart Integrated University Portal System
+## 🎓 Smart Integrated University System
 
 A role-based academic management platform developed as part of a university capstone project, supporting Students, Teachers, and Administrators through separate interfaces.
 
