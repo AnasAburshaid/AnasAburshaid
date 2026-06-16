@@ -1,54 +1,108 @@
-# 👨‍💻 Hi there, this is Anas Aburshaid
+# 👋 Hi, I'm Anas Aburshaid
 
-## 🧾 Short Bio
-Software Engineering graduate from BAU with strong experience in building desktop and backend systems using C++ and C#. Focused on system design, backend logic, clean architecture, and problem-solving for real-world software systems.
+Software Engineering graduate passionate about backend development and designing structured software systems. I enjoy translating complex business requirements into maintainable, real-world applications using clean architecture principles and strong problem-solving skills.
 
----
-
-## 👋 About Me
-I am a Software Engineering graduate with practical experience in designing and developing structured software systems.
-
-My focus is on understanding how systems work internally, breaking requirements into well-defined components, and designing scalable and maintainable solutions. I approach development from an engineering perspective rather than just implementation, with strong emphasis on logic, structure, and design quality.
-
-I have strong problem-solving skills and the ability to translate complex requirements into clear and efficient software architectures.
+📍 Amman, Jordan
+🔗 LinkedIn: https://www.linkedin.com/in/anas-aburshaid-950192367/
+🔗 GitHub: https://github.com/AnasAburshaid
 
 ---
 
-## 💼 Projects
+# 🚀 Featured Projects
 
-### 🏛️ University Management System
-A full-scale academic platform simulating real-world university operations, built with a decoupled architecture using a C++ backend (Drogon), SQLite database, and a React frontend to manage administrative workflows and business logic.
+## 🚗 DVLD (Driving & Vehicle License Department) Management System
 
-### 🚗 DVLD (Driving & Vehicle License Department System)
-A full-scale licensing system simulating real-world government workflows, built with layered architecture, strict business rules, and complete lifecycle management of applications, tests, and licenses.
+A full-scale desktop application simulating the workflows of a government licensing department. Developed independently from scratch using a strict 3-Tier Architecture.
 
-### 🏦 Bank Management System (C++)
-A console-based system implementing role-based access control, account management, and transaction processing with structured system logic.
+### Highlights
 
-### 📒 Contacts Management System (C# WinForms)
-A desktop CRUD application for managing contacts with clean UI structure and basic data operations.
+* Designed using Presentation, Business Logic, and Data Access layers.
+* Implemented secure database operations using ADO.NET and SQL Server.
+* Built complete license lifecycle workflows including issuance, renewal, replacement, and detainment.
+* Developed reusable WinForms UserControls to promote modular UI design.
+* Applied extensive business-rule validation throughout the application.
 
-### 🌍 Countries Information System (C# WinForms)
-A lightweight system for storing and managing country data with simple structured operations.
+**Tech Stack:** C#, .NET Framework, WinForms, SQL Server, ADO.NET
 
 ---
 
-## 🧠 Core Strengths
-* System Thinking & Software Design
-* Problem Solving & Algorithmic Thinking
+## 🎓 Smart Integrated University Portal System
+
+A role-based academic management platform developed as part of a university capstone project, supporting Students, Teachers, and Administrators through separate interfaces.
+
+### My Contributions
+
+* Designed and implemented core backend functionality.
+* Developed RESTful API endpoints using the Drogon Framework.
+* Built authentication and role-verification mechanisms.
+* Implemented academic workflows including course registration and grading operations.
+* Integrated SQLite for reliable data persistence.
+
+**Tech Stack:** C++, Drogon, SQLite, React, TypeScript, Postman
+
+---
+
+## 🏦 Bank Management System
+
+A console-based banking system demonstrating strong Object-Oriented Programming principles and secure business logic implementation.
+
+### Highlights
+
+* Implemented client and account management operations.
+* Developed transaction processing for deposits and withdrawals.
+* Built a custom Role-Based Access Control mechanism using bitwise permissions.
+* Designed file-based persistence to maintain application state across sessions.
+
+**Tech Stack:** C++, OOP, File Handling
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+
+* C#
+* C++
+* SQL
+
+### Backend Development
+
+* .NET Framework
+* ADO.NET
+* Backend Logic Design
+* API Concepts & Request Processing
+
+### Databases
+
+* Microsoft SQL Server
+* SQLite
+
+### Software Engineering
+
+* Object-Oriented Programming (OOP)
+* N-Tier Architecture
 * Clean Architecture Principles
-* Backend Logic Design & API Concepts
-* Database-Driven Application Design
-* Structured Code Organization
+* Problem Solving
+* System Design Fundamentals
+
+### Tools
+
+* Git & GitHub
+* Visual Studio
+* SSMS
+* Postman
 
 ---
 
-## 🚀 Work Approach
-I focus on understanding systems at a structural level — how data flows, how components interact, and how business rules shape architecture. I aim to write clean, maintainable, and logically structured code that reflects real software engineering principles.
+# 🌱 Currently Learning
+
+* Deepening my understanding of RESTful API design and backend communication patterns.
+* Strengthening my knowledge of modern .NET backend development.
+* Exploring software design principles and best practices for building maintainable systems.
 
 ---
 
-## 🚀 Future Direction
-I am focused on strengthening my backend development skills by building real-world projects and improving my system design capabilities.
+# 🎯 Career Goal
 
-My goal is to grow into a backend-focused software engineer with strong expertise in API development, software architecture, and scalable backend systems, while continuously sharpening my problem-solving skills.
+To grow into a backend-focused software engineer capable of designing scalable, maintainable systems that solve real-world problems through thoughtful architecture and clean implementation.
+  
