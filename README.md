@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anas Aburshaid
 
-Software Engineering graduate passionate about backend development and designing structured software systems. I enjoy translating complex business requirements into maintainable, real-world applications using clean architecture principles and strong problem-solving skills.
+Software Engineering graduate passionate about backend development and designing structured software systems. I enjoy translating complex business requirements into maintainable, real-world applications through strong problem-solving skills and clean architectural practices.
 
 📍 Amman, Jordan
 🔗 LinkedIn: https://www.linkedin.com/in/anas-aburshaid-950192367/
@@ -16,9 +16,9 @@ A full-scale desktop application simulating the workflows of a government licens
 
 ### Highlights
 
-* Designed using Presentation, Business Logic, and Data Access layers.
+* Designed the application using Presentation, Business Logic, and Data Access layers.
 * Implemented secure database operations using ADO.NET and SQL Server.
-* Built complete license lifecycle workflows including issuance, renewal, replacement, and detainment.
+* Built complete license lifecycle workflows, including issuance, renewal, replacement, and detainment.
 * Developed reusable WinForms UserControls to promote modular UI design.
 * Applied extensive business-rule validation throughout the application.
 
@@ -33,9 +33,9 @@ A role-based academic management platform developed as part of a university caps
 ### My Contributions
 
 * Designed and implemented core backend functionality.
-* Developed RESTful API endpoints using the Drogon Framework.
+* Contributed to the implementation of RESTful API endpoints using the Drogon Framework.
 * Built authentication and role-verification mechanisms.
-* Implemented academic workflows including course registration and grading operations.
+* Implemented academic workflows, including course registration and grading operations.
 * Integrated SQLite for reliable data persistence.
 
 **Tech Stack:** C++, Drogon, SQLite, React, TypeScript, Postman
@@ -89,7 +89,7 @@ A console-based banking system demonstrating strong Object-Oriented Programming 
 
 * Git & GitHub
 * Visual Studio
-* SSMS
+* SQL Server Management Studio (SSMS)
 * Postman
 
 ---
@@ -105,4 +105,3 @@ A console-based banking system demonstrating strong Object-Oriented Programming 
 # 🎯 Career Goal
 
 To grow into a backend-focused software engineer capable of designing scalable, maintainable systems that solve real-world problems through thoughtful architecture and clean implementation.
-  
