@@ -4,7 +4,7 @@
 
 I am a Software Engineering graduate focused on backend development using **C#, ASP.NET Core, .NET, and SQL**.
 
-I enjoy building database-driven applications, implementing business rules and system workflows, and organizing code with clear separation of concerns. My projects have given me practical experience with RESTful APIs, relational databases, object-oriented programming, layered architecture, and backend problem-solving.
+I enjoy building database-driven applications, implementing business rules and system workflows, and organizing code with clear separation of concerns. Through my projects, I have gained practical experience with relational databases, object-oriented programming, layered architecture, backend problem-solving, and RESTful API development.
 
 📍 **Amman, Jordan**
 
